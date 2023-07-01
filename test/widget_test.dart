@@ -8,7 +8,7 @@ import 'dart:math';
 
 void main() {
   testWidgets(
-      'Проверяем, что при тапе по кнопке число от 0 до 49 отображается синим цветом',
+      'Widget test',
       (WidgetTester tester) async {
 
 
